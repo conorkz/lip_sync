@@ -7,7 +7,7 @@ This lip-sync system based on python disentangles the objective into three seque
 
 (3) face enhancement for improving photo-realism.
 ```bash
-git clone https://github.com/vinthony/video-retalking.git
+git clone https://github.com/vinthony/lip_sync.git
 cd video-retalking
 conda create -n video_retalking python=3.8
 conda activate video_retalking
@@ -20,3 +20,4 @@ pip install torch==1.9.0+cu111 torchvision==0.10.0+cu111 -f https://download.pyt
 
 pip install   
  -r requirements.txt
+### This is an h3 header
