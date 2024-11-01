@@ -1,2 +1,2 @@
-# lip_sync
-Audio-based Lip Synchronization
+# Audio-based Lip Synchronization
+
